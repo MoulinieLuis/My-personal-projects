@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  println("Hellow World!");
+
+  getchar();
+  return 0;
+}

@@ -33,9 +33,9 @@ int main() {
     scanf("%19s", card_number);
 
     if (luhn_check(card_number)) {
-        printf("Número de tarjeta VÁLIDO ✅\n");
+        printf("Número de tarjeta VÁLIDO\n");
     } else {
-        printf("Número de tarjeta INVÁLIDO ❌\n");
+        printf("Número de tarjeta INVÁLIDO\n");
     }
 
     return 0;

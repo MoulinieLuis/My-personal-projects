@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-  printf("Hellow World!");
-  printf("This is my first C programm ever");
+  printf("Hello World!");
+  printf("This is my first C program ever");
 
   getchar();
   return 0;

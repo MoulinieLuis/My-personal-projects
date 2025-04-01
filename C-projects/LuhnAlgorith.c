@@ -25,7 +25,7 @@ int luhn_check(const char *card_number) {
     int len = strlen(card_number);
     int sum = 0, double_digit;
     int is_second = 0;  // 0 para el primer dígito desde la derecha
-    int i; // Declaramos i aquí
+    int i; //Declaramos i aquí
 
     for (i = len - 1; i >= 0; i--) {
         if (!isdigit(card_number[i])) return 0;  // Validación: solo dígitos

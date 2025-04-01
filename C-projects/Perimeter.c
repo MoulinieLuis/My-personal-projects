@@ -1,5 +1,5 @@
 /*
-This program draws a square with asterisks based on the user imput
+This program draws a square with asterisks based on the user input
 Author: Moulinie Ruíz Luis Enrique
 Date: 2023-10-05
 */

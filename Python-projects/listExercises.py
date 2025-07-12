@@ -19,8 +19,12 @@ print(newFruit)
 
 print(fruits)
 print()
+
+#Print the first letter of the first element
 print(fruits[0][0])
 
+#Literal change
+fruits[3] = "Mango"
 """ 
 This print function above is gonna print only the G from the first element of the list, which is "Grapes".
 This is because we remove Banana and besides we "pop" Apple

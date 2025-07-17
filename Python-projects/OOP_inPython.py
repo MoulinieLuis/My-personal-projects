@@ -80,3 +80,26 @@ d = Dog("Bill", 34)
 d.speak()
 #Here the output will be "Bark" because is working in the same way as the above line but is using the method speak in the Dog class
 
+'''
+This is another way to use OOP in Python
+
+This code retrieves information from the user and assigns it to the object
+'''
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+
+class Apple:
+    def __init__(self, color, flavor):
+        self.color = color
+        self.flavor = flavor
+
+color = input("Enter a color")
+
+flavor = input("Enter a flavor")
+
+newApple = Apple(color, flavor)
+
+print("The color of your apple is: ", newApple.color)
+
+print(f"The flavor of your apple is: {newApple.flavor}")

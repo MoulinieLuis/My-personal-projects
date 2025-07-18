@@ -40,3 +40,36 @@ users = current_users(events)
 print(users)
 
 generate_report(users)
+
+'''
+Just to remember
+
+List
+list = [1, 2, 3, 4, 5]
+- Ordered collection of items
+- Allows duplicates
+- Mutable (can be changed)
+
+
+Tuple
+Tuple = (1, 2, 3, 4, 5)
+- Ordered collection of items
+- Allows duplicates
+- Immutable (cannot be changed)
+
+
+Set
+Set = {1, 2, 3, 4, 5}
+- Unordered collection of unique items
+- Does not allow duplicates
+- Mutable (can be changed)
+
+
+Dictionary
+Dictionary = {1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five'}
+- Unordered collection of key-value pairs
+- Keys must be unique
+- Mutable (can be changed)
+- Allows fast lookups by key
+
+'''

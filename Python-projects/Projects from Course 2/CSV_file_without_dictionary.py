@@ -27,7 +27,7 @@ def contents_of_file(filename):
       name, color, type = row #Unpack the elements of the first list (row) of the list (rows) to work individually in each element
       # Format the return string for data rows only
 
-      return_string += "a {} {} is {}\n".format(name, color, type) #Creates the large string with the values
+      return_string += "a {} {} is {}\n".format(color, name, type) #Creates the large string with the values
   return return_string
 
 #Call the function

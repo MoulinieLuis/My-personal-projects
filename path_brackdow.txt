@@ -1,0 +1,14 @@
+C:\Windows\system32
+C:\Windows
+C:\Windows\System32\Wbem
+C:\Windows\System32\WindowsPowerShell\v1.0\
+C:\Windows\System32\OpenSSH\
+C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static
+C:\Program Files\Git\cmd
+C:\MinGW\lib
+C:\Users\Moulinie\AppData\Local\Microsoft\WindowsApps
+C:\Users\Moulinie\AppData\Local\Programs\Microsoft VS Code\bin
+C:\msys64\clang64\bin
+C:\Users\Moulinie\AppData\Local\Programs\cursor\resources\app\bin
+c:\Users\Moulinie\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\scripts\noConfigScripts
+c:\Users\Moulinie\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand
